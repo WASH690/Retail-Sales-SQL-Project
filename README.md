@@ -125,4 +125,4 @@ This project demonstrates practical experience with:
 
 **Wafa Shujaa**
 
-Computer Science Graduate | Master's Student in Computer Science
+Computer Science Graduate 
